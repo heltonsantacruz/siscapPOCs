@@ -1,0 +1,129 @@
+ºo % Estado do Piauí *
+
+E !; Trlbunal de Contas ªr$
+
+ª ª ' Diretoria de Gestão de Informações Estratégicas e B;) ($$$?)
+
+, Combate a Corrupçao - DGECOR Do [)IAUÍ
+CESAR.EDU
+MPES — Mestrado Profissional em Engenharia de Software
+RFP — Request for Proposal
+
+1. APRESENTAÇÃO DA INSTITUIÇÃO:
+
+O TRIBUNAL DE CONTAS DO ESTADO DO PIAUÍ é um órgão constitucional
+autônomo, pessoa jurídica de direito público, inscrito no Cadastro Nacional de Pessoa Juridica sob o nº
+05.818935/0001-01, com sede na Av. Pedro Freitas, 2100, Bairro Vermelha, em Teresina, Piauí.
+
+Segundo mais antigo Tribunal de Contas do pais, foi criado através da primeira Constituição
+republicana estadual (Art. 98) e regulamentado pela Lei 210 de lº de Julho de 1899, manifestando
+suas atribuições constitucionais através das Decisões de três órgãos colegiados (Plenário e duas
+Câmaras) e de 10 órgãos singulares, os Conselheiros e Conselheiros Substitutos, e e' representado por
+um presidente eleito pelos seus pares para um mandato de dois anos, sendo o atual Presidente o
+Conselheiro OLAVO REBELO DE CARVALHO FILHO.
+
+Exercente de Poder Regulamentador, é regido pela Lei Estadual Nº 5.888, de 19 de agosto de
+2009, com atribuições delineadas nos termos da Constituição Federal, art. 75 (Caput e Parágrafo
+Único), da Lei Nacional nº 4320/64, da Lei Nacional nº 8666/93, da Lei Complementar Nacional nº
+101/00 — LRF e da Constituição Estadual, art. 86 (Caput, Incisos e Parágrafos).
+
+Fiscaliza a aplicação dos recursos estaduais e municipais — em todas as suas formas — sendo
+previsto para 0 exercício de 2018 valores superiores a R$ 21 bilhões de reais. Com um pouco mais de
+500 servidores, cuja idade média é superior a 40 anos, e orçamento de aproximadamente R$ 120
+milhões, esta Corte de Contas tem trabalhado para fazer mais, melhor e com menos custos. Sua
+vivência estratégica pode ser consulta no link http://Www.tce.pi.gov.br/institucional/planejamento-
+estrategico/.
+
+Destaque-se, por ser oportuno, que há alguns anos o Tribunal de Contas do Estado do Piauí-
+TCE/Pl vem experimentando uma série de avanços estruturais, tecnológicos e na gestão da
+informação, convergindo esforços para adesão e cumprimento de diretrizes nacionais que objetivam
+mais agilidade e qualidade na expressão dos resultados desejados para o controle externo. Na
+amplitude de sua estratégia, foram fixados referenciais e se têm percorrido longos caminhos traçados
+em ações e cumprimento de metas, germinando-se com destaque a concomitância da fiscalização e o
+combate e prevenção à corrupção. Tem, ainda, intensificado as relações intergovernamentais e
+interinstitucionais e o compartilhamento de informações, inclusive restritas e sigilosas, a gestão de
+informações estratégicas como instrumento de efetividade do controle externo.
+
+1
+ºo Estado do Piauí *
+,.. . Trlbunal de Contas , Ã
+. __;A , , ,, - , . 'TRIBL'NAL
+”:, à: ' Diretoria de Gestao de Informaçoes Estrateglcas e B:; $$$?)
+Combate à Corrupção - DGECOR deljwi
+2. DESCRIÇÃO DO PROBLEMA:
+
+O grande número de órgãos que são fiscalizados e de ocorrências nas prestações de contas, a
+extensão territorial do Estado, as limitações impostas pela Lei de Responsabilidade Fiscal e pelo
+orçamento e o consequente número insuficiente de auditores são elementos que dificultam uma maior
+agilidade e qualidade no exercício do controle promovido pelo órgão, com reflexos negativos no
+combate e prevenção à corrupção.
+
+Ao mesmo tempo, os avanços tecnológicos implementados, o recebimento eletrônico das
+prestações de contas, incluindo as folhas de pagamento, as licitações realizadas, os contratos
+celebrados...; o compartilhamento de dados de outras bases e a utilização tecnificada de dados abertos
+têm implicado um grande volume de dados para análises, suscitando melhores resultados e mais
+rápidos.
+
+Nesse novo ambiente de análise, acredita-se que somente o emprego de ferramentas de
+business intelligence, data analysis, interactive dashboards, IA, machine learning, deep learning,
+separadas ou em conjunto, possa possibilitar uma determinação ou predição capaz de direcionar o
+trabalho das áreas de fiscalização para resultados preventivos e/ou mais efetivos, possibilitando-se
+fazer mais, melhor, com menos.
+
+Portanto, procura-se uma solução capaz de permear pelos bancos de dados do TCE/PI e seja
+capaz de imprimir determinações ou predições automáticas para o direcionamento dos seus trabalhos
+de fiscalização.
+
+3. PESSOAS E INSTITUICOES IMPLICADAS:
+
+Os auditores de controle externo, especialmente os gestores das áreas de fiscalização, e todos
+os demais órgãos da Rede Estadual de Controle, que de forma colegiada tem a finalidade de buscar
+corrigir eventuais ações administrativas e evitar práticas ilegais e desvios na gestão dos recursos
+públicos, por serem direta ou indiretamente implicados, poderiam contribuir para a solução do
+problema.
+
+Fazem parte da precitada Rede de Controle, além do Tribunal de Contas do Estado, o
+Ministério da Transparência, Fiscalização e Controladoria geral da união — CGU (Unidade Regional
+do Piaui), o Ministério Público Estadual—MPE/Pl, o Ministério Público Federal—PR/PI, o Tribunal de
+Contas da União—TCU/SECEX-PI, a Receita Federal do Brasil-RFB, o Departamento Nacional de
+Auditoria do Sistema Único de Saúde-DENASUS, a Controladoria Geral do Estado do Piaui-CGE/PI,
+
+2
+ºo Estado do Piauí *
+. Trlbunal de Contas , Ã
+. _A ' TRIBUNAL
+”:, ª ' Diretoria de Gestão de Informações Estratégicas e 85 iª???)
+
+Combate à Corrupção - DGECOR 1851),fo i
+
+a Policia F ederal-PF, a Polícia Rodoviária Federal-PRF, a Policia Civil-PC e a Corregedoria Geral de
+
+Justiça.
+
+4. RECURSOS DISPONÍVEIS:
+
+O Tribunal de Contas do Estado, para o desenvolvimento da solução inovadora buscada, irá
+disponibilizar todos os seus dados, O apoio logístico da Diretoria de Tecnologia da Informação e da
+Diretoria de Gestão de Informações Estratégicas e Combate à Corrupção, e, consoante a
+disponibilidade orçamentária e financeira do seu Fundo de Modernização (unidade orçamentária),
+recursos financeiros limitados a um teto acertado previamente mediante O competente instrumento de
+transferência voluntária.
+
+5. RELEVÃNCIA DO PROBLEMA:
+
+A solução desse problema é relevante para essa Corte de Contas e para a sociedade de um
+modo geral por fomentar, ainda que indiretamente, O aperfeiçoamento da gestão e a melhoria da
+governança pública, procurando evitar, diretamente, O desperdício dos recursos públicos e os desvios
+decorrentes da corrupção.
+
+6. CONTATO INSTITUCIONAL:
+
+JOSE INALDO DE OLIVEIRA E SILVA, Auditor de Controle Externo, Diretor da
+Diretoria de Gestão de Informações Estratégicas e Combate à Corrupção — DGECOR, telefones (86)
+3215-3821 e (86) 98838-0153, e-mail jose.inald0©tce.pi.gov.br.
+
+ANTONIO RICARDO LEÃO DE ALMEIDA, Diretor da Diretoria de Tecnologia de
+Informações, telefones (86) 3215-3980 e (86) 99426-5234, e-mail ricardoalmeidagªtcepi.gOV.br.
+
+3
+

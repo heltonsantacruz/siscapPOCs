@@ -1,0 +1,126 @@
+API Tesseract
+
+
+1)Instala o Tesseract
+http://tess4j.sourceforge.net/
+-http://mvnrepository.com/artifact/net.sourceforge.lept4j
+colocar no pom
+<dependency>
+		    <groupId>net.sourceforge.tess4j</groupId>
+		    <artifactId>tess4j</artifactId>
+		    <version>4.0.2</version>
+		</dependency>
+		
+		
+
+2)Baixar os arquivos de linguagens
+https://github.com/tesseract-ocr/tessdata/tree/3.04.00
+-Put them into tessdata directory inside of some folder. Add this folder into System Path variables as TESSDATA_PREFIX.
+
+
+3)Set a pasta na instancia
+instance.setDatapath("E:\\helton\\tessdata\\tessdata-3.04.00\\");
+
+
+
+
+
+
+
+
+Google (https://cloud.google.com/vision/docs/libraries#client-libraries-install-java)
+-Installing the client library
+	<dependency>
+	  <groupId>com.google.cloud</groupId>
+	  <artifactId>google-cloud-vision</artifactId>
+	  <version>1.27.0</version>
+	</dependency>
+	
+	
+-Setting up authentication	
+	-Criar chave da conta de serviço (https://console.cloud.google.com/apis/credentials/serviceaccountkey?_ga=2.128745422.-357343644.1531316061&project=meu-projeto-teste-de-ocr&folder&organizationId)
+	
+
+-Criar conta
+-
+
+-setar variavel de ambiente: GOOGLE_APPLICATION_CREDENTIALS apontando para o JSON baixado quando cria conta de serviço: https://cloud.google.com/docs/authentication/getting-started
+
+
+-Ativar API (https://console.cloud.google.com/apis/library/vision.googleapis.com?project=meu-projeto-teste-de-ocr)
+
+
+
+
+
+
+
+
+
+
+
+https://console.cloud.google.com/home/dashboard?project=meu-projeto-teste-de-ocr&_ga=2.166499580.-357343644.1531316061
+https://console.cloud.google.com/apis/library/vision.googleapis.com?project=meu-projeto-teste-de-ocr
+https://console.cloud.google.com/apis/api/vision.googleapis.com/overview?project=meu-projeto-teste-de-ocr
+https://cloud.google.com/vision/?_ga=2.72366545.-357343644.1531316061
+https://cloud.google.com/storage/use-cases/
+https://cloud.google.com/vision/?_ga=2.170622946.-357343644.1531316061
+https://cloud.google.com/vision/docs/ocr
+https://cloud.google.com/vision/docs/detecting-fulltext#vision-document-text-detection-java
+https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/vision/cloud-client
+https://github.com/heltonsantacruz/java-docs-samples/blob/master/vision/cloud-client/src/main/java/com/example/vision/QuickstartSample.java
+https://cloud.google.com/vision/docs/libraries#client-libraries-install-java
+https://cloud.google.com/docs/authentication/production
+https://cloud.google.com/docs/authentication/getting-started
+
+
+
+
+Exception in thread "main" com.google.api.gax.rpc.DeadlineExceededException: io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded: -266551936382 ns from now
+	at com.google.api.gax.rpc.ApiExceptionFactory.createException(ApiExceptionFactory.java:51)
+	at com.google.api.gax.grpc.GrpcApiExceptionFactory.create(GrpcApiExceptionFactory.java:72)
+	at com.google.api.gax.grpc.GrpcApiExceptionFactory.create(GrpcApiExceptionFactory.java:60)
+	at com.google.api.gax.grpc.GrpcExceptionCallable$ExceptionTransformingFuture.onFailure(GrpcExceptionCallable.java:95)
+	at com.google.api.core.ApiFutures$1.onFailure(ApiFutures.java:61)
+	at com.google.common.util.concurrent.Futures$4.run(Futures.java:1123)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:435)
+	at com.google.common.util.concurrent.AbstractFuture.executeListener(AbstractFuture.java:900)
+	at com.google.common.util.concurrent.AbstractFuture.addListener(AbstractFuture.java:634)
+	at com.google.common.util.concurrent.ForwardingListenableFuture.addListener(ForwardingListenableFuture.java:45)
+	at com.google.api.core.ApiFutureToListenableFuture.addListener(ApiFutureToListenableFuture.java:52)
+	at com.google.common.util.concurrent.Futures.addCallback(Futures.java:1135)
+	at com.google.api.core.ApiFutures.addCallback(ApiFutures.java:56)
+	at com.google.api.core.ApiFutures.addCallback(ApiFutures.java:51)
+	at com.google.api.gax.grpc.GrpcExceptionCallable.futureCall(GrpcExceptionCallable.java:65)
+	at com.google.api.gax.rpc.AttemptCallable.call(AttemptCallable.java:75)
+	at com.google.common.util.concurrent.TrustedListenableFutureTask$TrustedFutureInterruptibleTask.runInterruptibly(TrustedListenableFutureTask.java:111)
+	at com.google.common.util.concurrent.InterruptibleTask.run(InterruptibleTask.java:58)
+	at com.google.common.util.concurrent.TrustedListenableFutureTask.run(TrustedListenableFutureTask.java:75)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded: -266551936382 ns from now
+	at io.grpc.Status.asRuntimeException(Status.java:526)
+	at io.grpc.stub.ClientCalls$UnaryStreamToFuture.onClose(ClientCalls.java:467)
+	at io.grpc.ForwardingClientCallListener.onClose(ForwardingClientCallListener.java:41)
+	at io.grpc.internal.CensusStatsModule$StatsClientInterceptor$1$1.onClose(CensusStatsModule.java:684)
+	at io.grpc.ForwardingClientCallListener.onClose(ForwardingClientCallListener.java:41)
+	at io.grpc.internal.CensusTracingModule$TracingClientInterceptor$1$1.onClose(CensusTracingModule.java:391)
+	at io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:475)
+	at io.grpc.internal.ClientCallImpl.access$300(ClientCallImpl.java:63)
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl.close(ClientCallImpl.java:557)
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl.access$600(ClientCallImpl.java:478)
+	at io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:590)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	... 7 more
+
+
+
+
+
+		
