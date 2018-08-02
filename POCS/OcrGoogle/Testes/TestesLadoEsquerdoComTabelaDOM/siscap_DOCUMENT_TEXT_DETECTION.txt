@@ -1,0 +1,1622 @@
+Symbol text: A (confidence: 0,990000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: ç (confidence: 0,990000)
+Symbol text: ã (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: Administração (confidence: 0,990000)
+
+Symbol text: D (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 0,990000)
+Word text: Direta (confidence: 0,990000)
+
+
+Paragraph: 
+ Administração Direta
+Paragraph Confidence: 0,990000
+Symbol text: S (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: i (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Word text: Secretaria (confidence: 0,990000)
+
+Symbol text: M (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: p (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: l (confidence: 0,990000)
+Word text: Municipal (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: P (confidence: 0,990000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: j (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: m (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: Planejamento (confidence: 0,990000)
+
+Symbol text: e (confidence: 0,990000)
+Word text: e (confidence: 0,990000)
+
+
+Paragraph: 
+ Secretaria Municipal de Planejamento e
+Paragraph Confidence: 0,990000
+Symbol text: C (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: d (confidence: 1,000000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: ç (confidence: 0,990000)
+Symbol text: ã (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: Coordenação (confidence: 0,990000)
+
+
+Paragraph: 
+ Coordenação
+Paragraph Confidence: 0,990000
+Symbol text: P (confidence: 0,990000)
+Symbol text: O (confidence: 0,990000)
+Symbol text: R (confidence: 0,990000)
+Symbol text: T (confidence: 0,990000)
+Symbol text: A (confidence: 1,000000)
+Symbol text: R (confidence: 0,990000)
+Symbol text: I (confidence: 1,000000)
+Symbol text: A (confidence: 1,000000)
+Word text: PORTARIA (confidence: 0,990000)
+
+Symbol text: S (confidence: 0,990000)
+Symbol text: E (confidence: 1,000000)
+Symbol text: M (confidence: 0,990000)
+Symbol text: P (confidence: 0,990000)
+Symbol text: L (confidence: 0,990000)
+Symbol text: A (confidence: 0,990000)
+Symbol text: N (confidence: 0,990000)
+Word text: SEMPLAN (confidence: 0,990000)
+
+Symbol text: / (confidence: 0,990000)
+Word text: / (confidence: 0,990000)
+
+Symbol text: C (confidence: 0,990000)
+Symbol text: G (confidence: 0,990000)
+Symbol text: O (confidence: 0,990000)
+Word text: CGO (confidence: 0,990000)
+
+Symbol text: G (confidence: 0,910000)
+Symbol text: O (confidence: 0,930000)
+Symbol text: R (confidence: 0,940000)
+Word text: GOR (confidence: 0,920000)
+
+Symbol text: N (confidence: 0,890000)
+Word text: N (confidence: 0,890000)
+
+Symbol text: 0 (confidence: 0,950000)
+Symbol text: 3 (confidence: 0,960000)
+Symbol text: 8 (confidence: 0,950000)
+Word text: 038 (confidence: 0,950000)
+
+Symbol text: / (confidence: 0,920000)
+Word text: / (confidence: 0,920000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 0 (confidence: 0,980000)
+Symbol text: 1 (confidence: 0,980000)
+Symbol text: 8 (confidence: 0,980000)
+Word text: 2018 (confidence: 0,980000)
+
+Symbol text: . (confidence: 0,970000)
+Word text: . (confidence: 0,970000)
+
+Symbol text: A (confidence: 0,970000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: t (confidence: 0,960000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Word text: Altera (confidence: 0,980000)
+
+Symbol text: o (confidence: 0,990000)
+Word text: o (confidence: 0,990000)
+
+Symbol text: Q (confidence: 0,990000)
+Symbol text: u (confidence: 0,940000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: d (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: Quadro (confidence: 0,980000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: D (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: h (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: Detalhamento (confidence: 0,990000)
+
+Symbol text: d (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Word text: da (confidence: 1,000000)
+
+Symbol text: D (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: p (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: s (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Word text: Despesa (confidence: 0,990000)
+
+Symbol text: - (confidence: 0,940000)
+Word text: - (confidence: 0,940000)
+
+Symbol text: Q (confidence: 0,950000)
+Symbol text: D (confidence: 0,950000)
+Symbol text: D (confidence: 0,960000)
+Word text: QDD (confidence: 0,950000)
+
+Symbol text: p (confidence: 0,980000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Word text: para (confidence: 0,990000)
+
+Symbol text: o (confidence: 0,990000)
+Word text: o (confidence: 0,990000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: x (confidence: 0,990000)
+Symbol text: e (confidence: 0,970000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: í (confidence: 0,560000)
+Symbol text: c (confidence: 0,940000)
+Symbol text: i (confidence: 0,940000)
+Symbol text: o (confidence: 0,940000)
+Word text: exercício (confidence: 0,920000)
+
+Symbol text: d (confidence: 0,920000)
+Symbol text: e (confidence: 0,920000)
+Word text: de (confidence: 0,920000)
+
+Symbol text: 2 (confidence: 0,940000)
+Symbol text: 0 (confidence: 1,000000)
+Symbol text: 1 (confidence: 1,000000)
+Symbol text: 8 (confidence: 1,000000)
+Word text: 2018 (confidence: 0,980000)
+
+Symbol text: , (confidence: 0,900000)
+Word text: , (confidence: 0,900000)
+
+Symbol text: a (confidence: 0,890000)
+Symbol text: p (confidence: 0,970000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: v (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: aprovado (confidence: 0,970000)
+
+Symbol text: p (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: l (confidence: 1,000000)
+Symbol text: o (confidence: 0,990000)
+Word text: pelo (confidence: 0,990000)
+
+Symbol text: D (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: Decreto (confidence: 0,990000)
+
+Symbol text: n (confidence: 0,990000)
+Symbol text: º (confidence: 0,190000)
+Word text: nº (confidence: 0,590000)
+
+Symbol text: 1 (confidence: 0,900000)
+Symbol text: 7 (confidence: 0,940000)
+Word text: 17 (confidence: 0,920000)
+
+Symbol text: . (confidence: 0,970000)
+Word text: . (confidence: 0,970000)
+
+Symbol text: 4 (confidence: 0,940000)
+Symbol text: 0 (confidence: 0,940000)
+Symbol text: 7 (confidence: 0,990000)
+Word text: 407 (confidence: 0,950000)
+
+Symbol text: , (confidence: 0,980000)
+Word text: , (confidence: 0,980000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 2 (confidence: 0,990000)
+Word text: 22 (confidence: 0,990000)
+
+Symbol text: d (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 1,000000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: z (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: m (confidence: 1,000000)
+Symbol text: b (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: dezembro (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: 2 (confidence: 1,000000)
+Symbol text: 0 (confidence: 1,000000)
+Symbol text: 1 (confidence: 1,000000)
+Symbol text: 7 (confidence: 0,990000)
+Word text: 2017 (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: c (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Symbol text: m (confidence: 0,990000)
+Word text: com (confidence: 0,990000)
+
+Symbol text: b (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: base (confidence: 0,990000)
+
+Symbol text: n (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Word text: na (confidence: 0,990000)
+
+Symbol text: L (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: i (confidence: 0,990000)
+Word text: Lei (confidence: 0,990000)
+
+Symbol text: n (confidence: 0,990000)
+Symbol text: º (confidence: 0,660000)
+Word text: nº (confidence: 0,820000)
+
+Symbol text: 5 (confidence: 0,930000)
+Word text: 5 (confidence: 0,930000)
+
+Symbol text: . (confidence: 0,970000)
+Word text: . (confidence: 0,970000)
+
+Symbol text: 1 (confidence: 0,930000)
+Symbol text: 3 (confidence: 0,930000)
+Symbol text: 8 (confidence: 0,990000)
+Word text: 138 (confidence: 0,950000)
+
+Symbol text: , (confidence: 0,970000)
+Word text: , (confidence: 0,970000)
+
+Symbol text: d (confidence: 0,960000)
+Symbol text: e (confidence: 0,980000)
+Word text: de (confidence: 0,970000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 2 (confidence: 0,990000)
+Word text: 22 (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,970000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,980000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: z (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: m (confidence: 1,000000)
+Symbol text: b (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: dezembro (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 0 (confidence: 1,000000)
+Symbol text: 1 (confidence: 1,000000)
+Symbol text: 7 (confidence: 0,990000)
+Word text: 2017 (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,240000)
+Word text: , (confidence: 0,240000)
+
+Symbol text: n (confidence: 0,830000)
+Symbol text: a (confidence: 0,900000)
+Word text: na (confidence: 0,860000)
+
+Symbol text: f (confidence: 0,870000)
+Symbol text: o (confidence: 0,940000)
+Symbol text: r (confidence: 0,960000)
+Symbol text: m (confidence: 0,940000)
+Symbol text: a (confidence: 1,000000)
+Word text: forma (confidence: 0,940000)
+
+Symbol text: q (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: que (confidence: 0,990000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: p (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: f (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Word text: especifica (confidence: 0,990000)
+
+Symbol text: . (confidence: 0,950000)
+Word text: . (confidence: 0,950000)
+
+Symbol text: O (confidence: 0,960000)
+Word text: O (confidence: 0,960000)
+
+Symbol text: S (confidence: 0,950000)
+Symbol text: E (confidence: 0,980000)
+Symbol text: C (confidence: 0,960000)
+Symbol text: R (confidence: 1,000000)
+Symbol text: E (confidence: 1,000000)
+Symbol text: T (confidence: 1,000000)
+Symbol text: Á (confidence: 0,960000)
+Symbol text: R (confidence: 0,990000)
+Symbol text: I (confidence: 0,990000)
+Symbol text: O (confidence: 0,980000)
+Word text: SECRETÁRIO (confidence: 0,980000)
+
+Symbol text: M (confidence: 0,950000)
+Symbol text: U (confidence: 0,990000)
+Symbol text: N (confidence: 0,990000)
+Symbol text: I (confidence: 0,990000)
+Word text: MUNI (confidence: 0,980000)
+
+Symbol text: C (confidence: 0,990000)
+Symbol text: I (confidence: 0,990000)
+Symbol text: P (confidence: 0,980000)
+Symbol text: A (confidence: 0,990000)
+Symbol text: L (confidence: 0,990000)
+Word text: CIPAL (confidence: 0,980000)
+
+Symbol text: D (confidence: 1,000000)
+Symbol text: E (confidence: 1,000000)
+Word text: DE (confidence: 1,000000)
+
+Symbol text: P (confidence: 0,990000)
+Symbol text: L (confidence: 0,990000)
+Symbol text: A (confidence: 1,000000)
+Symbol text: N (confidence: 1,000000)
+Symbol text: E (confidence: 0,990000)
+Symbol text: J (confidence: 0,990000)
+Symbol text: A (confidence: 1,000000)
+Symbol text: M (confidence: 1,000000)
+Symbol text: E (confidence: 1,000000)
+Symbol text: N (confidence: 1,000000)
+Symbol text: T (confidence: 1,000000)
+Symbol text: O (confidence: 1,000000)
+Word text: PLANEJAMENTO (confidence: 0,990000)
+
+Symbol text: E (confidence: 1,000000)
+Word text: E (confidence: 1,000000)
+
+Symbol text: C (confidence: 0,990000)
+Symbol text: O (confidence: 0,990000)
+Symbol text: O (confidence: 0,990000)
+Symbol text: R (confidence: 1,000000)
+Symbol text: D (confidence: 1,000000)
+Symbol text: E (confidence: 0,990000)
+Symbol text: N (confidence: 1,000000)
+Symbol text: A (confidence: 1,000000)
+Symbol text: Ç (confidence: 0,990000)
+Symbol text: Ã (confidence: 0,810000)
+Symbol text: O (confidence: 0,880000)
+Word text: COORDENAÇÃO (confidence: 0,960000)
+
+Symbol text: , (confidence: 0,410000)
+Word text: , (confidence: 0,410000)
+
+Symbol text: n (confidence: 0,850000)
+Symbol text: o (confidence: 0,930000)
+Word text: no (confidence: 0,890000)
+
+Symbol text: u (confidence: 0,790000)
+Symbol text: s (confidence: 0,940000)
+Symbol text: o (confidence: 0,950000)
+Word text: uso (confidence: 0,890000)
+
+Symbol text: d (confidence: 0,980000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 0,990000)
+Word text: das (confidence: 0,990000)
+
+Symbol text: a (confidence: 0,990000)
+Symbol text: t (confidence: 0,990000)
+Symbol text: r (confidence: 0,980000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: b (confidence: 1,000000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: ç (confidence: 0,990000)
+Symbol text: õ (confidence: 0,730000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Word text: atribuições (confidence: 0,970000)
+
+Symbol text: l (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: g (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: i (confidence: 0,990000)
+Symbol text: s (confidence: 1,000000)
+Word text: legais (confidence: 0,990000)
+
+Symbol text: q (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: que (confidence: 0,990000)
+
+Symbol text: l (confidence: 0,990000)
+Symbol text: h (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: lhe (confidence: 0,990000)
+
+Symbol text: s (confidence: 0,990000)
+Symbol text: ã (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Word text: são (confidence: 0,990000)
+
+Symbol text: c (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: f (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: s (confidence: 0,990000)
+Word text: conferidas (confidence: 0,990000)
+
+Symbol text: p (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: l (confidence: 1,000000)
+Symbol text: a (confidence: 0,990000)
+Word text: pela (confidence: 0,990000)
+
+Symbol text: l (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: g (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: l (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: ç (confidence: 0,990000)
+Symbol text: ã (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Word text: legislação (confidence: 0,990000)
+
+Symbol text: v (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: g (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: vigente (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: t (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: tendo (confidence: 0,990000)
+
+Symbol text: e (confidence: 1,000000)
+Symbol text: m (confidence: 0,990000)
+Word text: em (confidence: 0,990000)
+
+Symbol text: v (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Word text: vista (confidence: 1,000000)
+
+Symbol text: , (confidence: 0,980000)
+Word text: , (confidence: 0,980000)
+
+Symbol text: e (confidence: 0,980000)
+Symbol text: m (confidence: 0,980000)
+Word text: em (confidence: 0,980000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: s (confidence: 0,990000)
+Symbol text: p (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: l (confidence: 1,000000)
+Word text: especial (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,870000)
+Word text: , (confidence: 0,870000)
+
+Symbol text: o (confidence: 0,840000)
+Word text: o (confidence: 0,840000)
+
+Symbol text: d (confidence: 0,970000)
+Symbol text: i (confidence: 0,970000)
+Symbol text: s (confidence: 0,970000)
+Symbol text: p (confidence: 0,970000)
+Symbol text: o (confidence: 0,970000)
+Symbol text: s (confidence: 0,970000)
+Symbol text: t (confidence: 0,970000)
+Symbol text: o (confidence: 1,000000)
+Word text: disposto (confidence: 0,970000)
+
+Symbol text: n (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Word text: no (confidence: 0,990000)
+
+Symbol text: a (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Word text: art (confidence: 1,000000)
+
+Symbol text: . (confidence: 0,780000)
+Word text: . (confidence: 0,780000)
+
+Symbol text: 5 (confidence: 0,990000)
+Word text: 5 (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,140000)
+Word text: , (confidence: 0,140000)
+
+Symbol text: § (confidence: 0,180000)
+Word text: § (confidence: 0,180000)
+
+Symbol text: 2 (confidence: 0,670000)
+Symbol text: º (confidence: 0,010000)
+Word text: 2º (confidence: 0,340000)
+
+Symbol text: , (confidence: 0,270000)
+Word text: , (confidence: 0,270000)
+
+Symbol text: d (confidence: 0,330000)
+Symbol text: a (confidence: 0,840000)
+Word text: da (confidence: 0,580000)
+
+Symbol text: L (confidence: 0,830000)
+Symbol text: e (confidence: 0,650000)
+Symbol text: i (confidence: 1,000000)
+Word text: Lei (confidence: 0,820000)
+
+Symbol text: n (confidence: 0,990000)
+Symbol text: º (confidence: 0,410000)
+Word text: nº (confidence: 0,700000)
+
+Symbol text: 5 (confidence: 0,930000)
+Word text: 5 (confidence: 0,930000)
+
+Symbol text: . (confidence: 0,970000)
+Word text: . (confidence: 0,970000)
+
+Symbol text: 1 (confidence: 0,930000)
+Symbol text: 3 (confidence: 0,930000)
+Symbol text: 8 (confidence: 0,990000)
+Word text: 138 (confidence: 0,950000)
+
+Symbol text: , (confidence: 0,960000)
+Word text: , (confidence: 0,960000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 2 (confidence: 0,990000)
+Word text: 22 (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: z (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: b (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: dezembro (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 0 (confidence: 1,000000)
+Symbol text: 1 (confidence: 0,990000)
+Symbol text: 7 (confidence: 0,990000)
+Word text: 2017 (confidence: 0,990000)
+
+Symbol text: . (confidence: 0,480000)
+Word text: . (confidence: 0,480000)
+
+Symbol text: C (confidence: 0,910000)
+Symbol text: O (confidence: 0,910000)
+Symbol text: N (confidence: 0,910000)
+Symbol text: S (confidence: 0,950000)
+Symbol text: I (confidence: 0,920000)
+Symbol text: D (confidence: 0,950000)
+Symbol text: E (confidence: 0,950000)
+Symbol text: R (confidence: 1,000000)
+Symbol text: A (confidence: 1,000000)
+Symbol text: N (confidence: 0,990000)
+Symbol text: D (confidence: 1,000000)
+Symbol text: O (confidence: 0,990000)
+Word text: CONSIDERANDO (confidence: 0,950000)
+
+Symbol text: a (confidence: 0,990000)
+Word text: a (confidence: 0,990000)
+
+Symbol text: n (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: d (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: necessidade (confidence: 0,990000)
+
+Symbol text: d (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 1,000000)
+
+Symbol text: a (confidence: 0,990000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: q (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: r (confidence: 0,990000)
+Word text: adequar (confidence: 0,990000)
+
+Symbol text: a (confidence: 0,950000)
+Symbol text: l (confidence: 0,880000)
+Symbol text: g (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Word text: algumas (confidence: 0,970000)
+
+Symbol text: c (confidence: 0,990000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: f (confidence: 0,990000)
+Symbol text: i (confidence: 0,990000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: ç (confidence: 0,570000)
+Symbol text: õ (confidence: 0,820000)
+Symbol text: e (confidence: 0,970000)
+Symbol text: s (confidence: 0,980000)
+Word text: classificações (confidence: 0,950000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 0,960000)
+Word text: das (confidence: 0,980000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: s (confidence: 0,990000)
+Symbol text: p (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 0,990000)
+Word text: despesas (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: q (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: quanto (confidence: 0,990000)
+
+Symbol text: à (confidence: 0,820000)
+Word text: à (confidence: 0,820000)
+
+Symbol text: s (confidence: 0,970000)
+Symbol text: u (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Word text: sua (confidence: 0,980000)
+
+Symbol text: n (confidence: 0,970000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: t (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: z (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Word text: natureza (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: R (confidence: 0,960000)
+Symbol text: E (confidence: 0,960000)
+Symbol text: S (confidence: 0,980000)
+Symbol text: O (confidence: 0,970000)
+Symbol text: L (confidence: 0,990000)
+Symbol text: V (confidence: 0,990000)
+Symbol text: E (confidence: 0,990000)
+Word text: RESOLVE (confidence: 0,970000)
+
+Symbol text: : (confidence: 0,990000)
+Word text: : (confidence: 0,990000)
+
+Symbol text: A (confidence: 0,970000)
+Symbol text: r (confidence: 0,370000)
+Symbol text: t (confidence: 0,960000)
+Word text: Art (confidence: 0,760000)
+
+Symbol text: . (confidence: 0,940000)
+Word text: . (confidence: 0,940000)
+
+Symbol text: 1 (confidence: 0,970000)
+Symbol text: º (confidence: 0,380000)
+Word text: 1º (confidence: 0,670000)
+
+Symbol text: F (confidence: 0,950000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Word text: Fica (confidence: 0,980000)
+
+Symbol text: a (confidence: 0,990000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: t (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: alterado (confidence: 0,990000)
+
+Symbol text: o (confidence: 0,990000)
+Word text: o (confidence: 0,990000)
+
+Symbol text: Q (confidence: 0,990000)
+Symbol text: u (confidence: 1,000000)
+Symbol text: a (confidence: 0,990000)
+Word text: Qua (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: dro (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: D (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: t (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: l (confidence: 1,000000)
+Symbol text: h (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: Detalhamento (confidence: 0,990000)
+
+Symbol text: d (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Word text: da (confidence: 1,000000)
+
+Symbol text: D (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: p (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: a (confidence: 0,990000)
+Word text: Despesa (confidence: 0,990000)
+
+Symbol text: - (confidence: 0,950000)
+Word text: - (confidence: 0,950000)
+
+Symbol text: Q (confidence: 0,940000)
+Symbol text: D (confidence: 0,890000)
+Symbol text: D (confidence: 0,960000)
+Word text: QDD (confidence: 0,930000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: do (confidence: 0,990000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: x (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: i (confidence: 0,990000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: o (confidence: 0,990000)
+Word text: exercicio (confidence: 0,990000)
+
+Symbol text: 2 (confidence: 0,970000)
+Symbol text: 0 (confidence: 0,990000)
+Symbol text: 1 (confidence: 0,990000)
+Symbol text: 8 (confidence: 0,980000)
+Word text: 2018 (confidence: 0,980000)
+
+Symbol text: , (confidence: 0,610000)
+Word text: , (confidence: 0,610000)
+
+Symbol text: d (confidence: 0,980000)
+Symbol text: a (confidence: 0,980000)
+Symbol text: s (confidence: 0,960000)
+Word text: das (confidence: 0,970000)
+
+Symbol text: U (confidence: 0,960000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: i (confidence: 0,930000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: d (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Word text: Unidades (confidence: 0,980000)
+
+Symbol text: O (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: ç (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: á (confidence: 0,780000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: i (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: s (confidence: 0,980000)
+Word text: Orçamentárias (confidence: 0,970000)
+
+Symbol text: r (confidence: 0,970000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: l (confidence: 0,980000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: d (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Word text: relacionadas (confidence: 0,990000)
+
+Symbol text: a (confidence: 0,990000)
+Symbol text: b (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: i (confidence: 0,960000)
+Symbol text: x (confidence: 1,000000)
+Symbol text: o (confidence: 0,990000)
+Word text: abaixo (confidence: 0,980000)
+
+Symbol text: , (confidence: 0,940000)
+Word text: , (confidence: 0,940000)
+
+Symbol text: c (confidence: 0,970000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: f (confidence: 0,940000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Word text: conforme (confidence: 0,980000)
+
+Symbol text: A (confidence: 0,990000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: x (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: Anexo (confidence: 0,990000)
+
+Symbol text: U (confidence: 0,990000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: i (confidence: 0,980000)
+Symbol text: c (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Word text: Unico (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: s (confidence: 0,990000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 0,990000)
+Word text: desta (confidence: 0,990000)
+
+Symbol text: P (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: t (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: a (confidence: 0,980000)
+Word text: Portaria (confidence: 0,990000)
+
+
+Paragraph: 
+ PORTARIA SEMPLAN / CGO GOR N 038 / 2018 . Altera o Quadro de Detalhamento da Despesa - QDD para o exercício de 2018 , aprovado pelo Decreto nº 17 . 407 , de 22 de dezembro de 2017 , com base na Lei nº 5 . 138 , de 22 de dezembro de 2017 , na forma que especifica . O SECRETÁRIO MUNI CIPAL DE PLANEJAMENTO E COORDENAÇÃO , no uso das atribuições legais que lhe são conferidas pela legislação vigente , tendo em vista , em especial , o disposto no art . 5 , § 2º , da Lei nº 5 . 138 , de 22 de dezembro de 2017 . CONSIDERANDO a necessidade de adequar algumas classificações das despesas , quanto à sua natureza , RESOLVE : Art . 1º Fica alterado o Qua dro de Detalhamento da Despesa - QDD do exercicio 2018 , das Unidades Orçamentárias relacionadas abaixo , conforme Anexo Unico desta Portaria
+Paragraph Confidence: 0,960000
+Symbol text: O (confidence: 0,990000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: g (confidence: 1,000000)
+Symbol text: ã (confidence: 0,810000)
+Symbol text: o (confidence: 0,990000)
+Word text: Orgão (confidence: 0,950000)
+
+Symbol text: 1 (confidence: 0,990000)
+Symbol text: 0 (confidence: 0,990000)
+Word text: 10 (confidence: 0,990000)
+
+Symbol text: - (confidence: 0,930000)
+Word text: - (confidence: 0,930000)
+
+Symbol text: S (confidence: 0,920000)
+Symbol text: e (confidence: 0,980000)
+Symbol text: m (confidence: 0,920000)
+Symbol text: e (confidence: 0,950000)
+Symbol text: l (confidence: 0,950000)
+Word text: Semel (confidence: 0,940000)
+
+
+Paragraph: 
+ Orgão 10 - Semel
+Paragraph Confidence: 0,950000
+Symbol text: T (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: l (confidence: 0,870000)
+Word text: Total (confidence: 0,970000)
+
+
+Paragraph: 
+ Total
+Paragraph Confidence: 0,970000
+Symbol text: S (confidence: 0,940000)
+Symbol text: u (confidence: 0,950000)
+Symbol text: p (confidence: 0,980000)
+Symbol text: l (confidence: 0,950000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Word text: Suplementado (confidence: 0,980000)
+
+
+Paragraph: 
+ Suplementado
+Paragraph Confidence: 0,980000
+Symbol text: 1 (confidence: 0,770000)
+Symbol text: 2 (confidence: 0,970000)
+Symbol text: 1 (confidence: 0,990000)
+Word text: 121 (confidence: 0,910000)
+
+Symbol text: . (confidence: 1,000000)
+Word text: . (confidence: 1,000000)
+
+Symbol text: 1 (confidence: 1,000000)
+Symbol text: 6 (confidence: 0,990000)
+Symbol text: 7 (confidence: 0,990000)
+Word text: 167 (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: 0 (confidence: 0,990000)
+Symbol text: 0 (confidence: 0,990000)
+Word text: 00 (confidence: 0,990000)
+
+Symbol text: 1 (confidence: 0,970000)
+Symbol text: 2 (confidence: 0,970000)
+Symbol text: 1 (confidence: 0,960000)
+Word text: 121 (confidence: 0,960000)
+
+Symbol text: . (confidence: 0,970000)
+Word text: . (confidence: 0,970000)
+
+Symbol text: 1 (confidence: 0,990000)
+Symbol text: 6 (confidence: 0,980000)
+Symbol text: 7 (confidence: 0,980000)
+Word text: 167 (confidence: 0,980000)
+
+Symbol text: , (confidence: 0,970000)
+Word text: , (confidence: 0,970000)
+
+Symbol text: 0 (confidence: 0,990000)
+Symbol text: 0 (confidence: 0,980000)
+Word text: 00 (confidence: 0,980000)
+
+
+Paragraph: 
+ 121 . 167 , 00 121 . 167 , 00
+Paragraph Confidence: 0,970000
+Symbol text: A (confidence: 0,990000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: u (confidence: 0,990000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Word text: Anulado (confidence: 0,990000)
+
+
+Paragraph: 
+ Anulado
+Paragraph Confidence: 0,990000
+Symbol text: 1 (confidence: 0,930000)
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 1 (confidence: 0,990000)
+Word text: 121 (confidence: 0,970000)
+
+Symbol text: . (confidence: 0,990000)
+Word text: . (confidence: 0,990000)
+
+Symbol text: 1 (confidence: 0,930000)
+Symbol text: 6 (confidence: 0,990000)
+Symbol text: 7 (confidence: 0,990000)
+Word text: 167 (confidence: 0,970000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: 0 (confidence: 0,990000)
+Symbol text: 0 (confidence: 0,900000)
+Word text: 00 (confidence: 0,940000)
+
+Symbol text: 1 (confidence: 0,950000)
+Symbol text: 2 (confidence: 0,970000)
+Symbol text: 1 (confidence: 0,940000)
+Word text: 121 (confidence: 0,950000)
+
+Symbol text: . (confidence: 0,970000)
+Word text: . (confidence: 0,970000)
+
+Symbol text: 1 (confidence: 0,970000)
+Symbol text: 6 (confidence: 0,960000)
+Symbol text: 7 (confidence: 0,980000)
+Word text: 167 (confidence: 0,970000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: 0 (confidence: 0,990000)
+Symbol text: 0 (confidence: 1,000000)
+Word text: 00 (confidence: 0,990000)
+
+
+Paragraph: 
+ 121 . 167 , 00 121 . 167 , 00
+Paragraph Confidence: 0,970000
+Symbol text: A (confidence: 0,990000)
+Symbol text: r (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Word text: Art (confidence: 0,990000)
+
+Symbol text: . (confidence: 0,510000)
+Word text: . (confidence: 0,510000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: º (confidence: 0,200000)
+Word text: 2º (confidence: 0,590000)
+
+Symbol text: E (confidence: 0,910000)
+Symbol text: s (confidence: 0,910000)
+Symbol text: t (confidence: 0,930000)
+Symbol text: a (confidence: 0,920000)
+Word text: Esta (confidence: 0,910000)
+
+Symbol text: P (confidence: 0,910000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: i (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Word text: Portaria (confidence: 0,980000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 0,990000)
+Symbol text: r (confidence: 0,970000)
+Symbol text: a (confidence: 1,000000)
+Word text: entra (confidence: 0,990000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Word text: em (confidence: 0,990000)
+
+Symbol text: v (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: g (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Symbol text: r (confidence: 0,990000)
+Word text: vigor (confidence: 0,990000)
+
+Symbol text: n (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Word text: na (confidence: 0,990000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: t (confidence: 0,930000)
+Symbol text: a (confidence: 1,000000)
+Word text: data (confidence: 0,980000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: s (confidence: 0,990000)
+Symbol text: u (confidence: 0,990000)
+Symbol text: a (confidence: 0,990000)
+Word text: sua (confidence: 0,990000)
+
+Symbol text: p (confidence: 1,000000)
+Symbol text: u (confidence: 0,990000)
+Symbol text: b (confidence: 0,990000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: ç (confidence: 0,990000)
+Symbol text: ã (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: publicação (confidence: 0,990000)
+
+Symbol text: , (confidence: 0,980000)
+Word text: , (confidence: 0,980000)
+
+Symbol text: e (confidence: 0,980000)
+Symbol text: m (confidence: 0,980000)
+Word text: em (confidence: 0,980000)
+
+Symbol text: 2 (confidence: 0,960000)
+Symbol text: 8 (confidence: 0,960000)
+Word text: 28 (confidence: 0,960000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+
+Paragraph: 
+ Art . 2º Esta Portaria entra em vigor na data de sua publicação , em 28 de
+Paragraph Confidence: 0,960000
+Symbol text: u (confidence: 0,210000)
+Symbol text: n (confidence: 0,930000)
+Symbol text: h (confidence: 0,920000)
+Symbol text: o (confidence: 0,920000)
+Word text: unho (confidence: 0,740000)
+
+Symbol text: d (confidence: 0,920000)
+Symbol text: e (confidence: 0,930000)
+Word text: de (confidence: 0,920000)
+
+Symbol text: 2 (confidence: 0,920000)
+Symbol text: 0 (confidence: 1,000000)
+Symbol text: 1 (confidence: 0,990000)
+Symbol text: 8 (confidence: 0,990000)
+Word text: 2018 (confidence: 0,970000)
+
+Symbol text: . (confidence: 0,890000)
+Word text: . (confidence: 0,890000)
+
+Symbol text: A (confidence: 0,970000)
+Symbol text: r (confidence: 0,970000)
+Symbol text: t (confidence: 0,930000)
+Word text: Art (confidence: 0,950000)
+
+Symbol text: . (confidence: 0,380000)
+Word text: . (confidence: 0,380000)
+
+Symbol text: 3 (confidence: 0,980000)
+Symbol text: ° (confidence: 0,160000)
+Word text: 3° (confidence: 0,570000)
+
+Symbol text: R (confidence: 0,780000)
+Symbol text: e (confidence: 0,890000)
+Symbol text: v (confidence: 0,880000)
+Symbol text: o (confidence: 0,880000)
+Symbol text: g (confidence: 0,810000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Word text: Revogam (confidence: 0,880000)
+
+Symbol text: - (confidence: 0,990000)
+Word text: - (confidence: 0,990000)
+
+Symbol text: s (confidence: 1,000000)
+Symbol text: e (confidence: 0,990000)
+Word text: se (confidence: 0,990000)
+
+Symbol text: a (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Word text: as (confidence: 1,000000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: i (confidence: 0,870000)
+Symbol text: s (confidence: 0,990000)
+Symbol text: p (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: s (confidence: 1,000000)
+Symbol text: i (confidence: 0,990000)
+Symbol text: ç (confidence: 1,000000)
+Symbol text: õ (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: s (confidence: 1,000000)
+Word text: disposições (confidence: 0,980000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Word text: em (confidence: 0,990000)
+
+Symbol text: c (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: á (confidence: 0,870000)
+Symbol text: r (confidence: 0,970000)
+Symbol text: i (confidence: 0,970000)
+Symbol text: o (confidence: 0,980000)
+Word text: contrário (confidence: 0,970000)
+
+Symbol text: G (confidence: 0,830000)
+Symbol text: a (confidence: 0,930000)
+Symbol text: b (confidence: 0,880000)
+Symbol text: i (confidence: 0,930000)
+Symbol text: n (confidence: 0,960000)
+Symbol text: e (confidence: 0,890000)
+Symbol text: t (confidence: 0,980000)
+Symbol text: e (confidence: 1,000000)
+Word text: Gabinete (confidence: 0,920000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Word text: do (confidence: 0,990000)
+
+Symbol text: S (confidence: 0,980000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: c (confidence: 0,970000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: á (confidence: 0,980000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: o (confidence: 0,990000)
+Word text: Secretário (confidence: 0,980000)
+
+Symbol text: M (confidence: 0,970000)
+Symbol text: u (confidence: 0,980000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: i (confidence: 1,000000)
+Symbol text: c (confidence: 1,000000)
+Symbol text: i (confidence: 0,900000)
+Symbol text: p (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: l (confidence: 1,000000)
+Word text: Municipal (confidence: 0,980000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: P (confidence: 1,000000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: j (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 0,980000)
+Symbol text: o (confidence: 1,000000)
+Word text: Planejamento (confidence: 0,990000)
+
+Symbol text: e (confidence: 1,000000)
+Word text: e (confidence: 1,000000)
+
+Symbol text: C (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: d (confidence: 1,000000)
+Symbol text: e (confidence: 0,980000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: ç (confidence: 0,990000)
+Symbol text: ã (confidence: 0,870000)
+Symbol text: o (confidence: 0,990000)
+Word text: Coordenação (confidence: 0,980000)
+
+Symbol text: , (confidence: 0,990000)
+Word text: , (confidence: 0,990000)
+
+Symbol text: e (confidence: 0,990000)
+Symbol text: m (confidence: 0,990000)
+Word text: em (confidence: 0,990000)
+
+Symbol text: 2 (confidence: 0,980000)
+Symbol text: 8 (confidence: 0,960000)
+Word text: 28 (confidence: 0,970000)
+
+Symbol text: d (confidence: 0,980000)
+Symbol text: e (confidence: 0,980000)
+Word text: de (confidence: 0,980000)
+
+Symbol text: j (confidence: 0,980000)
+Symbol text: u (confidence: 0,980000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: h (confidence: 0,990000)
+Symbol text: o (confidence: 1,000000)
+Word text: junho (confidence: 0,990000)
+
+Symbol text: d (confidence: 1,000000)
+Symbol text: e (confidence: 1,000000)
+Word text: de (confidence: 1,000000)
+
+Symbol text: 2 (confidence: 0,990000)
+Symbol text: 0 (confidence: 1,000000)
+Symbol text: 1 (confidence: 1,000000)
+Symbol text: 8 (confidence: 0,990000)
+Word text: 2018 (confidence: 0,990000)
+
+Symbol text: . (confidence: 0,990000)
+Word text: . (confidence: 0,990000)
+
+Symbol text: J (confidence: 0,990000)
+Symbol text: O (confidence: 0,990000)
+Symbol text: S (confidence: 0,990000)
+Symbol text: É (confidence: 0,870000)
+Word text: JOSÉ (confidence: 0,960000)
+
+Symbol text: J (confidence: 0,940000)
+Symbol text: O (confidence: 0,980000)
+Symbol text: Ã (confidence: 0,170000)
+Symbol text: O (confidence: 0,950000)
+Word text: JOÃO (confidence: 0,760000)
+
+Symbol text: D (confidence: 0,950000)
+Symbol text: E (confidence: 0,960000)
+Word text: DE (confidence: 0,950000)
+
+Symbol text: M (confidence: 0,940000)
+Symbol text: A (confidence: 0,960000)
+Symbol text: G (confidence: 0,940000)
+Symbol text: A (confidence: 0,990000)
+Symbol text: L (confidence: 0,990000)
+Symbol text: H (confidence: 0,990000)
+Symbol text: Ã (confidence: 0,070000)
+Symbol text: E (confidence: 0,880000)
+Symbol text: S (confidence: 0,930000)
+Word text: MAGALHÃES (confidence: 0,850000)
+
+Symbol text: B (confidence: 0,870000)
+Symbol text: R (confidence: 0,920000)
+Symbol text: A (confidence: 1,000000)
+Symbol text: G (confidence: 0,990000)
+Symbol text: A (confidence: 1,000000)
+Word text: BRAGA (confidence: 0,950000)
+
+Symbol text: J (confidence: 0,990000)
+Symbol text: U (confidence: 0,600000)
+Symbol text: N (confidence: 0,930000)
+Symbol text: I (confidence: 0,950000)
+Symbol text: O (confidence: 0,960000)
+Symbol text: R (confidence: 0,960000)
+Word text: JUNIOR (confidence: 0,890000)
+
+Symbol text: , (confidence: 0,440000)
+Word text: , (confidence: 0,440000)
+
+Symbol text: S (confidence: 0,850000)
+Symbol text: e (confidence: 0,790000)
+Symbol text: c (confidence: 0,900000)
+Symbol text: r (confidence: 0,960000)
+Symbol text: e (confidence: 0,970000)
+Symbol text: t (confidence: 0,970000)
+Symbol text: á (confidence: 0,890000)
+Symbol text: r (confidence: 0,990000)
+Symbol text: i (confidence: 0,600000)
+Symbol text: o (confidence: 0,980000)
+Word text: Secretário (confidence: 0,890000)
+
+Symbol text: M (confidence: 0,930000)
+Symbol text: u (confidence: 0,940000)
+Symbol text: n (confidence: 0,980000)
+Symbol text: i (confidence: 0,990000)
+Word text: Muni (confidence: 0,960000)
+
+Symbol text: c (confidence: 0,980000)
+Symbol text: i (confidence: 0,980000)
+Symbol text: p (confidence: 0,950000)
+Symbol text: a (confidence: 0,990000)
+Symbol text: l (confidence: 0,990000)
+Word text: cipal (confidence: 0,970000)
+
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 0,990000)
+Word text: de (confidence: 0,990000)
+
+Symbol text: P (confidence: 0,990000)
+Symbol text: l (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: j (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: m (confidence: 0,990000)
+Symbol text: e (confidence: 1,000000)
+Symbol text: n (confidence: 1,000000)
+Symbol text: t (confidence: 1,000000)
+Symbol text: o (confidence: 1,000000)
+Word text: Planejamento (confidence: 0,990000)
+
+Symbol text: e (confidence: 0,990000)
+Word text: e (confidence: 0,990000)
+
+Symbol text: C (confidence: 0,980000)
+Symbol text: o (confidence: 0,990000)
+Symbol text: o (confidence: 0,970000)
+Symbol text: r (confidence: 0,980000)
+Symbol text: d (confidence: 0,990000)
+Symbol text: e (confidence: 0,980000)
+Symbol text: n (confidence: 0,990000)
+Symbol text: a (confidence: 1,000000)
+Symbol text: ç (confidence: 0,980000)
+Symbol text: ã (confidence: 1,000000)
+Symbol text: o (confidence: 0,990000)
+Word text: Coordenação (confidence: 0,980000)
+
+
+Paragraph: 
+ unho de 2018 . Art . 3° Revogam - se as disposições em contrário Gabinete do Secretário Municipal de Planejamento e Coordenação , em 28 de junho de 2018 . JOSÉ JOÃO DE MAGALHÃES BRAGA JUNIOR , Secretário Muni cipal de Planejamento e Coordenação
+Paragraph Confidence: 0,940000
+
+Complete annotation:
+Administração Direta
+Secretaria Municipal de Planejamento e
+Coordenação
+PORTARIA SEMPLAN/CGO GOR N 038/2018. Altera o Quadro de
+Detalhamento da Despesa - QDD para o exercício de 2018, aprovado pelo
+Decreto nº 17.407, de 22 de dezembro de 2017, com base na Lei nº 5.138, de
+22 de dezembro de 2017, na forma que especifica. O SECRETÁRIO MUNI-
+CIPAL DE PLANEJAMENTO E COORDENAÇÃO, no uso das atribuições
+legais que lhe são conferidas pela legislação vigente, tendo em vista, em
+especial, o disposto no art. 5, § 2º, da Lei nº 5.138, de 22 de dezembro de
+2017. CONSIDERANDO a necessidade de adequar algumas classificações
+das despesas, quanto à sua natureza, RESOLVE: Art. 1º Fica alterado o Qua-
+dro de Detalhamento da Despesa - QDD do exercicio 2018, das Unidades
+Orçamentárias relacionadas abaixo, conforme Anexo Unico desta Portaria
+Orgão
+10 - Semel
+Total
+Suplementado
+121.167,00
+121.167,00
+Anulado
+121.167,00
+121.167,00
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, em 28 de
+unho de 2018. Art. 3° Revogam-se as disposições em contrário Gabinete
+do Secretário Municipal de Planejamento e Coordenação, em 28 de junho de
+2018. JOSÉ JOÃO DE MAGALHÃES BRAGA JUNIOR, Secretário Muni-
+cipal de Planejamento e Coordenação
+

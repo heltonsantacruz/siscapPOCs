@@ -1,0 +1,1992 @@
+Text: DECIIO TERCEIRO TERMO ADITIVO AO CONTRATO N°
+06/2014. Processo Administrativo n 046- 00604/2018. Objeto - Alteração
+da Cláusula Décima Quarta, incisos I e II do Contrato n° 06/2014. Contratante
+Secretaria Municipal de Planejamento e Coordenação - SEMPLAN (CNPJ
+n° 06.554.869/0002-45). Contratada - Consórcio HYDROS/ENGECOR
+(CNPJ no 19.540.067/0001-47). Execução - Prorroga-se por mais 60 (ses-
+senta) dias, com término em 01.08.2018.Vigência - Prorroga-se por mais 60
+(sessenta) dias, com término em 14.11.2018. Data da assinatura do Aditivo
+- 01 de junho de 2018. Assinam-Pela Contratante: José João de Magalhães
+Braga Júnior - Secretário Municipal de Planejamento Coordenação. Pela
+Contratada: Marcelo Costa Napoleão do Rego - Representante Legal do
+Consórcio HYDROS/ENGECOR.
+
+Position : vertices {
+  x: 3
+  y: 9
+}
+vertices {
+  x: 466
+  y: 9
+}
+vertices {
+  x: 466
+  y: 231
+}
+vertices {
+  x: 3
+  y: 231
+}
+
+Text: DECIIO
+Position : vertices {
+  x: 4
+  y: 9
+}
+vertices {
+  x: 67
+  y: 9
+}
+vertices {
+  x: 67
+  y: 18
+}
+vertices {
+  x: 4
+  y: 18
+}
+
+Text: TERCEIRO
+Position : vertices {
+  x: 79
+  y: 9
+}
+vertices {
+  x: 159
+  y: 9
+}
+vertices {
+  x: 159
+  y: 18
+}
+vertices {
+  x: 79
+  y: 18
+}
+
+Text: TERMO
+Position : vertices {
+  x: 172
+  y: 9
+}
+vertices {
+  x: 228
+  y: 9
+}
+vertices {
+  x: 228
+  y: 18
+}
+vertices {
+  x: 172
+  y: 18
+}
+
+Text: ADITIVO
+Position : vertices {
+  x: 240
+  y: 9
+}
+vertices {
+  x: 305
+  y: 9
+}
+vertices {
+  x: 305
+  y: 18
+}
+vertices {
+  x: 240
+  y: 18
+}
+
+Text: AO
+Position : vertices {
+  x: 317
+  y: 9
+}
+vertices {
+  x: 338
+  y: 9
+}
+vertices {
+  x: 338
+  y: 18
+}
+vertices {
+  x: 317
+  y: 18
+}
+
+Text: CONTRATO
+Position : vertices {
+  x: 351
+  y: 9
+}
+vertices {
+  x: 436
+  y: 9
+}
+vertices {
+  x: 436
+  y: 18
+}
+vertices {
+  x: 351
+  y: 18
+}
+
+Text: N°
+Position : vertices {
+  x: 449
+  y: 9
+}
+vertices {
+  x: 464
+  y: 9
+}
+vertices {
+  x: 464
+  y: 18
+}
+vertices {
+  x: 449
+  y: 18
+}
+
+Text: 06/2014.
+Position : vertices {
+  x: 4
+  y: 27
+}
+vertices {
+  x: 57
+  y: 27
+}
+vertices {
+  x: 57
+  y: 42
+}
+vertices {
+  x: 4
+  y: 42
+}
+
+Text: Processo
+Position : vertices {
+  x: 61
+  y: 27
+}
+vertices {
+  x: 115
+  y: 27
+}
+vertices {
+  x: 115
+  y: 42
+}
+vertices {
+  x: 61
+  y: 42
+}
+
+Text: Administrativo
+Position : vertices {
+  x: 121
+  y: 27
+}
+vertices {
+  x: 210
+  y: 27
+}
+vertices {
+  x: 210
+  y: 42
+}
+vertices {
+  x: 121
+  y: 42
+}
+
+Text: n
+Position : vertices {
+  x: 217
+  y: 27
+}
+vertices {
+  x: 221
+  y: 27
+}
+vertices {
+  x: 221
+  y: 42
+}
+vertices {
+  x: 217
+  y: 42
+}
+
+Text: 046-
+Position : vertices {
+  x: 233
+  y: 27
+}
+vertices {
+  x: 259
+  y: 27
+}
+vertices {
+  x: 259
+  y: 42
+}
+vertices {
+  x: 233
+  y: 42
+}
+
+Text: 00604/2018.
+Position : vertices {
+  x: 266
+  y: 27
+}
+vertices {
+  x: 341
+  y: 27
+}
+vertices {
+  x: 341
+  y: 42
+}
+vertices {
+  x: 266
+  y: 42
+}
+
+Text: Objeto
+Position : vertices {
+  x: 348
+  y: 27
+}
+vertices {
+  x: 388
+  y: 27
+}
+vertices {
+  x: 388
+  y: 42
+}
+vertices {
+  x: 348
+  y: 42
+}
+
+Text: -
+Position : vertices {
+  x: 397
+  y: 27
+}
+vertices {
+  x: 399
+  y: 27
+}
+vertices {
+  x: 399
+  y: 42
+}
+vertices {
+  x: 397
+  y: 42
+}
+
+Text: Alteração
+Position : vertices {
+  x: 405
+  y: 27
+}
+vertices {
+  x: 462
+  y: 27
+}
+vertices {
+  x: 462
+  y: 42
+}
+vertices {
+  x: 405
+  y: 42
+}
+
+Text: da
+Position : vertices {
+  x: 4
+  y: 46
+}
+vertices {
+  x: 17
+  y: 46
+}
+vertices {
+  x: 17
+  y: 57
+}
+vertices {
+  x: 4
+  y: 57
+}
+
+Text: Cláusula
+Position : vertices {
+  x: 21
+  y: 46
+}
+vertices {
+  x: 73
+  y: 46
+}
+vertices {
+  x: 73
+  y: 57
+}
+vertices {
+  x: 21
+  y: 57
+}
+
+Text: Décima
+Position : vertices {
+  x: 76
+  y: 46
+}
+vertices {
+  x: 123
+  y: 46
+}
+vertices {
+  x: 123
+  y: 57
+}
+vertices {
+  x: 76
+  y: 57
+}
+
+Text: Quarta,
+Position : vertices {
+  x: 127
+  y: 47
+}
+vertices {
+  x: 171
+  y: 47
+}
+vertices {
+  x: 171
+  y: 60
+}
+vertices {
+  x: 127
+  y: 60
+}
+
+Text: incisos
+Position : vertices {
+  x: 175
+  y: 46
+}
+vertices {
+  x: 216
+  y: 46
+}
+vertices {
+  x: 216
+  y: 57
+}
+vertices {
+  x: 175
+  y: 57
+}
+
+Text: I
+Position : vertices {
+  x: 219
+  y: 47
+}
+vertices {
+  x: 224
+  y: 47
+}
+vertices {
+  x: 224
+  y: 57
+}
+vertices {
+  x: 219
+  y: 57
+}
+
+Text: e
+Position : vertices {
+  x: 227
+  y: 50
+}
+vertices {
+  x: 233
+  y: 50
+}
+vertices {
+  x: 233
+  y: 57
+}
+vertices {
+  x: 227
+  y: 57
+}
+
+Text: II
+Position : vertices {
+  x: 237
+  y: 47
+}
+vertices {
+  x: 246
+  y: 47
+}
+vertices {
+  x: 246
+  y: 57
+}
+vertices {
+  x: 237
+  y: 57
+}
+
+Text: do
+Position : vertices {
+  x: 249
+  y: 46
+}
+vertices {
+  x: 264
+  y: 46
+}
+vertices {
+  x: 264
+  y: 57
+}
+vertices {
+  x: 249
+  y: 57
+}
+
+Text: Contrato
+Position : vertices {
+  x: 267
+  y: 47
+}
+vertices {
+  x: 320
+  y: 47
+}
+vertices {
+  x: 320
+  y: 57
+}
+vertices {
+  x: 267
+  y: 57
+}
+
+Text: n°
+Position : vertices {
+  x: 323
+  y: 47
+}
+vertices {
+  x: 335
+  y: 47
+}
+vertices {
+  x: 335
+  y: 57
+}
+vertices {
+  x: 323
+  y: 57
+}
+
+Text: 06/2014.
+Position : vertices {
+  x: 338
+  y: 47
+}
+vertices {
+  x: 390
+  y: 47
+}
+vertices {
+  x: 390
+  y: 57
+}
+vertices {
+  x: 338
+  y: 57
+}
+
+Text: Contratante
+Position : vertices {
+  x: 394
+  y: 47
+}
+vertices {
+  x: 465
+  y: 47
+}
+vertices {
+  x: 465
+  y: 57
+}
+vertices {
+  x: 394
+  y: 57
+}
+
+Text: Secretaria
+Position : vertices {
+  x: 13
+  y: 65
+}
+vertices {
+  x: 72
+  y: 65
+}
+vertices {
+  x: 72
+  y: 76
+}
+vertices {
+  x: 13
+  y: 76
+}
+
+Text: Municipal
+Position : vertices {
+  x: 76
+  y: 65
+}
+vertices {
+  x: 138
+  y: 65
+}
+vertices {
+  x: 138
+  y: 79
+}
+vertices {
+  x: 76
+  y: 79
+}
+
+Text: de
+Position : vertices {
+  x: 142
+  y: 65
+}
+vertices {
+  x: 156
+  y: 65
+}
+vertices {
+  x: 156
+  y: 76
+}
+vertices {
+  x: 142
+  y: 76
+}
+
+Text: Planejamento
+Position : vertices {
+  x: 160
+  y: 65
+}
+vertices {
+  x: 242
+  y: 65
+}
+vertices {
+  x: 242
+  y: 79
+}
+vertices {
+  x: 160
+  y: 79
+}
+
+Text: e
+Position : vertices {
+  x: 246
+  y: 69
+}
+vertices {
+  x: 252
+  y: 69
+}
+vertices {
+  x: 252
+  y: 76
+}
+vertices {
+  x: 246
+  y: 76
+}
+
+Text: Coordenação
+Position : vertices {
+  x: 256
+  y: 65
+}
+vertices {
+  x: 335
+  y: 65
+}
+vertices {
+  x: 335
+  y: 79
+}
+vertices {
+  x: 256
+  y: 79
+}
+
+Text: -
+Position : vertices {
+  x: 339
+  y: 66
+}
+vertices {
+  x: 348
+  y: 66
+}
+vertices {
+  x: 348
+  y: 76
+}
+vertices {
+  x: 339
+  y: 76
+}
+
+Text: SEMPLAN
+Position : vertices {
+  x: 349
+  y: 66
+}
+vertices {
+  x: 421
+  y: 66
+}
+vertices {
+  x: 421
+  y: 76
+}
+vertices {
+  x: 349
+  y: 76
+}
+
+Text: (CNPJ
+Position : vertices {
+  x: 425
+  y: 65
+}
+vertices {
+  x: 465
+  y: 65
+}
+vertices {
+  x: 465
+  y: 78
+}
+vertices {
+  x: 425
+  y: 78
+}
+
+Text: n°
+Position : vertices {
+  x: 4
+  y: 84
+}
+vertices {
+  x: 14
+  y: 84
+}
+vertices {
+  x: 14
+  y: 98
+}
+vertices {
+  x: 4
+  y: 98
+}
+
+Text: 06.554.869/0002-45).
+Position : vertices {
+  x: 20
+  y: 84
+}
+vertices {
+  x: 155
+  y: 84
+}
+vertices {
+  x: 155
+  y: 98
+}
+vertices {
+  x: 20
+  y: 98
+}
+
+Text: Contratada
+Position : vertices {
+  x: 161
+  y: 84
+}
+vertices {
+  x: 230
+  y: 84
+}
+vertices {
+  x: 230
+  y: 98
+}
+vertices {
+  x: 161
+  y: 98
+}
+
+Text: -
+Position : vertices {
+  x: 243
+  y: 84
+}
+vertices {
+  x: 245
+  y: 84
+}
+vertices {
+  x: 245
+  y: 98
+}
+vertices {
+  x: 243
+  y: 98
+}
+
+Text: Consórcio
+Position : vertices {
+  x: 251
+  y: 84
+}
+vertices {
+  x: 314
+  y: 84
+}
+vertices {
+  x: 314
+  y: 98
+}
+vertices {
+  x: 251
+  y: 98
+}
+
+Text: HYDROS/ENGECOR
+Position : vertices {
+  x: 323
+  y: 84
+}
+vertices {
+  x: 463
+  y: 84
+}
+vertices {
+  x: 463
+  y: 98
+}
+vertices {
+  x: 323
+  y: 98
+}
+
+Text: (CNPJ
+Position : vertices {
+  x: 4
+  y: 103
+}
+vertices {
+  x: 44
+  y: 103
+}
+vertices {
+  x: 44
+  y: 116
+}
+vertices {
+  x: 4
+  y: 116
+}
+
+Text: no
+Position : vertices {
+  x: 49
+  y: 104
+}
+vertices {
+  x: 61
+  y: 104
+}
+vertices {
+  x: 61
+  y: 114
+}
+vertices {
+  x: 49
+  y: 114
+}
+
+Text: 19.540.067/0001-47).
+Position : vertices {
+  x: 68
+  y: 103
+}
+vertices {
+  x: 201
+  y: 103
+}
+vertices {
+  x: 201
+  y: 116
+}
+vertices {
+  x: 68
+  y: 116
+}
+
+Text: Execução
+Position : vertices {
+  x: 208
+  y: 103
+}
+vertices {
+  x: 263
+  y: 103
+}
+vertices {
+  x: 263
+  y: 117
+}
+vertices {
+  x: 208
+  y: 117
+}
+
+Text: -
+Position : vertices {
+  x: 268
+  y: 109
+}
+vertices {
+  x: 276
+  y: 109
+}
+vertices {
+  x: 276
+  y: 111
+}
+vertices {
+  x: 268
+  y: 111
+}
+
+Text: Prorroga-se
+Position : vertices {
+  x: 281
+  y: 104
+}
+vertices {
+  x: 352
+  y: 104
+}
+vertices {
+  x: 352
+  y: 117
+}
+vertices {
+  x: 281
+  y: 117
+}
+
+Text: por
+Position : vertices {
+  x: 356
+  y: 107
+}
+vertices {
+  x: 377
+  y: 107
+}
+vertices {
+  x: 377
+  y: 117
+}
+vertices {
+  x: 356
+  y: 117
+}
+
+Text: mais
+Position : vertices {
+  x: 382
+  y: 103
+}
+vertices {
+  x: 411
+  y: 103
+}
+vertices {
+  x: 411
+  y: 114
+}
+vertices {
+  x: 382
+  y: 114
+}
+
+Text: 60
+Position : vertices {
+  x: 416
+  y: 104
+}
+vertices {
+  x: 431
+  y: 104
+}
+vertices {
+  x: 431
+  y: 114
+}
+vertices {
+  x: 416
+  y: 114
+}
+
+Text: (ses-
+Position : vertices {
+  x: 436
+  y: 103
+}
+vertices {
+  x: 465
+  y: 103
+}
+vertices {
+  x: 465
+  y: 116
+}
+vertices {
+  x: 436
+  y: 116
+}
+
+Text: senta)
+Position : vertices {
+  x: 5
+  y: 122
+}
+vertices {
+  x: 38
+  y: 122
+}
+vertices {
+  x: 38
+  y: 135
+}
+vertices {
+  x: 5
+  y: 135
+}
+
+Text: dias,
+Position : vertices {
+  x: 44
+  y: 122
+}
+vertices {
+  x: 70
+  y: 122
+}
+vertices {
+  x: 70
+  y: 135
+}
+vertices {
+  x: 44
+  y: 135
+}
+
+Text: com
+Position : vertices {
+  x: 76
+  y: 122
+}
+vertices {
+  x: 100
+  y: 122
+}
+vertices {
+  x: 100
+  y: 135
+}
+vertices {
+  x: 76
+  y: 135
+}
+
+Text: término
+Position : vertices {
+  x: 106
+  y: 122
+}
+vertices {
+  x: 150
+  y: 122
+}
+vertices {
+  x: 150
+  y: 135
+}
+vertices {
+  x: 106
+  y: 135
+}
+
+Text: em
+Position : vertices {
+  x: 158
+  y: 122
+}
+vertices {
+  x: 174
+  y: 122
+}
+vertices {
+  x: 174
+  y: 135
+}
+vertices {
+  x: 158
+  y: 135
+}
+
+Text: 01.08.2018.Vigência
+Position : vertices {
+  x: 180
+  y: 122
+}
+vertices {
+  x: 303
+  y: 122
+}
+vertices {
+  x: 303
+  y: 135
+}
+vertices {
+  x: 180
+  y: 135
+}
+
+Text: -
+Position : vertices {
+  x: 312
+  y: 122
+}
+vertices {
+  x: 313
+  y: 122
+}
+vertices {
+  x: 313
+  y: 135
+}
+vertices {
+  x: 312
+  y: 135
+}
+
+Text: Prorroga-se
+Position : vertices {
+  x: 317
+  y: 122
+}
+vertices {
+  x: 390
+  y: 122
+}
+vertices {
+  x: 390
+  y: 135
+}
+vertices {
+  x: 317
+  y: 135
+}
+
+Text: por
+Position : vertices {
+  x: 396
+  y: 122
+}
+vertices {
+  x: 412
+  y: 122
+}
+vertices {
+  x: 412
+  y: 135
+}
+vertices {
+  x: 396
+  y: 135
+}
+
+Text: mais
+Position : vertices {
+  x: 418
+  y: 122
+}
+vertices {
+  x: 444
+  y: 122
+}
+vertices {
+  x: 444
+  y: 135
+}
+vertices {
+  x: 418
+  y: 135
+}
+
+Text: 60
+Position : vertices {
+  x: 450
+  y: 122
+}
+vertices {
+  x: 464
+  y: 122
+}
+vertices {
+  x: 464
+  y: 135
+}
+vertices {
+  x: 450
+  y: 135
+}
+
+Text: (sessenta)
+Position : vertices {
+  x: 4
+  y: 142
+}
+vertices {
+  x: 63
+  y: 142
+}
+vertices {
+  x: 63
+  y: 155
+}
+vertices {
+  x: 4
+  y: 155
+}
+
+Text: dias,
+Position : vertices {
+  x: 68
+  y: 142
+}
+vertices {
+  x: 96
+  y: 142
+}
+vertices {
+  x: 96
+  y: 154
+}
+vertices {
+  x: 68
+  y: 154
+}
+
+Text: com
+Position : vertices {
+  x: 101
+  y: 146
+}
+vertices {
+  x: 127
+  y: 146
+}
+vertices {
+  x: 127
+  y: 153
+}
+vertices {
+  x: 101
+  y: 153
+}
+
+Text: término
+Position : vertices {
+  x: 132
+  y: 142
+}
+vertices {
+  x: 178
+  y: 142
+}
+vertices {
+  x: 178
+  y: 153
+}
+vertices {
+  x: 132
+  y: 153
+}
+
+Text: em
+Position : vertices {
+  x: 184
+  y: 146
+}
+vertices {
+  x: 202
+  y: 146
+}
+vertices {
+  x: 202
+  y: 153
+}
+vertices {
+  x: 184
+  y: 153
+}
+
+Text: 14.11.2018.
+Position : vertices {
+  x: 208
+  y: 143
+}
+vertices {
+  x: 277
+  y: 143
+}
+vertices {
+  x: 277
+  y: 153
+}
+vertices {
+  x: 208
+  y: 153
+}
+
+Text: Data
+Position : vertices {
+  x: 283
+  y: 143
+}
+vertices {
+  x: 311
+  y: 143
+}
+vertices {
+  x: 311
+  y: 153
+}
+vertices {
+  x: 283
+  y: 153
+}
+
+Text: da
+Position : vertices {
+  x: 316
+  y: 142
+}
+vertices {
+  x: 330
+  y: 142
+}
+vertices {
+  x: 330
+  y: 153
+}
+vertices {
+  x: 316
+  y: 153
+}
+
+Text: assinatura
+Position : vertices {
+  x: 335
+  y: 142
+}
+vertices {
+  x: 395
+  y: 142
+}
+vertices {
+  x: 395
+  y: 153
+}
+vertices {
+  x: 335
+  y: 153
+}
+
+Text: do
+Position : vertices {
+  x: 401
+  y: 142
+}
+vertices {
+  x: 415
+  y: 142
+}
+vertices {
+  x: 415
+  y: 153
+}
+vertices {
+  x: 401
+  y: 153
+}
+
+Text: Aditivo
+Position : vertices {
+  x: 419
+  y: 142
+}
+vertices {
+  x: 465
+  y: 142
+}
+vertices {
+  x: 465
+  y: 153
+}
+vertices {
+  x: 419
+  y: 153
+}
+
+Text: -
+Position : vertices {
+  x: 3
+  y: 168
+}
+vertices {
+  x: 11
+  y: 168
+}
+vertices {
+  x: 11
+  y: 169
+}
+vertices {
+  x: 3
+  y: 169
+}
+
+Text: 01
+Position : vertices {
+  x: 15
+  y: 162
+}
+vertices {
+  x: 28
+  y: 162
+}
+vertices {
+  x: 28
+  y: 172
+}
+vertices {
+  x: 15
+  y: 172
+}
+
+Text: de
+Position : vertices {
+  x: 33
+  y: 161
+}
+vertices {
+  x: 47
+  y: 161
+}
+vertices {
+  x: 47
+  y: 172
+}
+vertices {
+  x: 33
+  y: 172
+}
+
+Text: junho
+Position : vertices {
+  x: 50
+  y: 161
+}
+vertices {
+  x: 85
+  y: 161
+}
+vertices {
+  x: 85
+  y: 175
+}
+vertices {
+  x: 50
+  y: 175
+}
+
+Text: de
+Position : vertices {
+  x: 89
+  y: 161
+}
+vertices {
+  x: 103
+  y: 161
+}
+vertices {
+  x: 103
+  y: 172
+}
+vertices {
+  x: 89
+  y: 172
+}
+
+Text: 2018.
+Position : vertices {
+  x: 107
+  y: 162
+}
+vertices {
+  x: 140
+  y: 162
+}
+vertices {
+  x: 140
+  y: 172
+}
+vertices {
+  x: 107
+  y: 172
+}
+
+Text: Assinam-Pela
+Position : vertices {
+  x: 144
+  y: 161
+}
+vertices {
+  x: 237
+  y: 161
+}
+vertices {
+  x: 237
+  y: 172
+}
+vertices {
+  x: 144
+  y: 172
+}
+
+Text: Contratante:
+Position : vertices {
+  x: 241
+  y: 162
+}
+vertices {
+  x: 316
+  y: 162
+}
+vertices {
+  x: 316
+  y: 172
+}
+vertices {
+  x: 241
+  y: 172
+}
+
+Text: José
+Position : vertices {
+  x: 320
+  y: 162
+}
+vertices {
+  x: 346
+  y: 162
+}
+vertices {
+  x: 346
+  y: 172
+}
+vertices {
+  x: 320
+  y: 172
+}
+
+Text: João
+Position : vertices {
+  x: 350
+  y: 162
+}
+vertices {
+  x: 377
+  y: 162
+}
+vertices {
+  x: 377
+  y: 172
+}
+vertices {
+  x: 350
+  y: 172
+}
+
+Text: de
+Position : vertices {
+  x: 381
+  y: 161
+}
+vertices {
+  x: 395
+  y: 161
+}
+vertices {
+  x: 395
+  y: 172
+}
+vertices {
+  x: 381
+  y: 172
+}
+
+Text: Magalhães
+Position : vertices {
+  x: 399
+  y: 161
+}
+vertices {
+  x: 464
+  y: 161
+}
+vertices {
+  x: 464
+  y: 175
+}
+vertices {
+  x: 399
+  y: 175
+}
+
+Text: Braga
+Position : vertices {
+  x: 4
+  y: 181
+}
+vertices {
+  x: 39
+  y: 181
+}
+vertices {
+  x: 39
+  y: 190
+}
+vertices {
+  x: 4
+  y: 190
+}
+
+Text: Júnior
+Position : vertices {
+  x: 46
+  y: 180
+}
+vertices {
+  x: 84
+  y: 180
+}
+vertices {
+  x: 84
+  y: 190
+}
+vertices {
+  x: 46
+  y: 190
+}
+
+Text: -
+Position : vertices {
+  x: 90
+  y: 187
+}
+vertices {
+  x: 98
+  y: 187
+}
+vertices {
+  x: 98
+  y: 187
+}
+vertices {
+  x: 90
+  y: 187
+}
+
+Text: Secretário
+Position : vertices {
+  x: 104
+  y: 180
+}
+vertices {
+  x: 165
+  y: 180
+}
+vertices {
+  x: 165
+  y: 190
+}
+vertices {
+  x: 104
+  y: 190
+}
+
+Text: Municipal
+Position : vertices {
+  x: 171
+  y: 180
+}
+vertices {
+  x: 234
+  y: 180
+}
+vertices {
+  x: 234
+  y: 193
+}
+vertices {
+  x: 171
+  y: 193
+}
+
+Text: de
+Position : vertices {
+  x: 240
+  y: 180
+}
+vertices {
+  x: 254
+  y: 180
+}
+vertices {
+  x: 254
+  y: 190
+}
+vertices {
+  x: 240
+  y: 190
+}
+
+Text: Planejamento
+Position : vertices {
+  x: 261
+  y: 180
+}
+vertices {
+  x: 343
+  y: 180
+}
+vertices {
+  x: 343
+  y: 193
+}
+vertices {
+  x: 261
+  y: 193
+}
+
+Text: Coordenação.
+Position : vertices {
+  x: 350
+  y: 180
+}
+vertices {
+  x: 432
+  y: 180
+}
+vertices {
+  x: 432
+  y: 193
+}
+vertices {
+  x: 350
+  y: 193
+}
+
+Text: Pela
+Position : vertices {
+  x: 440
+  y: 180
+}
+vertices {
+  x: 466
+  y: 180
+}
+vertices {
+  x: 466
+  y: 190
+}
+vertices {
+  x: 440
+  y: 190
+}
+
+Text: Contratada:
+Position : vertices {
+  x: 4
+  y: 199
+}
+vertices {
+  x: 73
+  y: 199
+}
+vertices {
+  x: 73
+  y: 210
+}
+vertices {
+  x: 4
+  y: 210
+}
+
+Text: Marcelo
+Position : vertices {
+  x: 81
+  y: 199
+}
+vertices {
+  x: 131
+  y: 199
+}
+vertices {
+  x: 131
+  y: 210
+}
+vertices {
+  x: 81
+  y: 210
+}
+
+Text: Costa
+Position : vertices {
+  x: 138
+  y: 200
+}
+vertices {
+  x: 172
+  y: 200
+}
+vertices {
+  x: 172
+  y: 210
+}
+vertices {
+  x: 138
+  y: 210
+}
+
+Text: Napoleão
+Position : vertices {
+  x: 178
+  y: 199
+}
+vertices {
+  x: 237
+  y: 199
+}
+vertices {
+  x: 237
+  y: 213
+}
+vertices {
+  x: 178
+  y: 213
+}
+
+Text: do
+Position : vertices {
+  x: 244
+  y: 199
+}
+vertices {
+  x: 258
+  y: 199
+}
+vertices {
+  x: 258
+  y: 210
+}
+vertices {
+  x: 244
+  y: 210
+}
+
+Text: Rego
+Position : vertices {
+  x: 265
+  y: 200
+}
+vertices {
+  x: 297
+  y: 200
+}
+vertices {
+  x: 297
+  y: 213
+}
+vertices {
+  x: 265
+  y: 213
+}
+
+Text: -
+Position : vertices {
+  x: 303
+  y: 206
+}
+vertices {
+  x: 311
+  y: 206
+}
+vertices {
+  x: 311
+  y: 207
+}
+vertices {
+  x: 303
+  y: 207
+}
+
+Text: Representante
+Position : vertices {
+  x: 317
+  y: 200
+}
+vertices {
+  x: 403
+  y: 200
+}
+vertices {
+  x: 403
+  y: 213
+}
+vertices {
+  x: 317
+  y: 213
+}
+
+Text: Legal
+Position : vertices {
+  x: 410
+  y: 199
+}
+vertices {
+  x: 444
+  y: 199
+}
+vertices {
+  x: 444
+  y: 213
+}
+vertices {
+  x: 410
+  y: 213
+}
+
+Text: do
+Position : vertices {
+  x: 451
+  y: 199
+}
+vertices {
+  x: 465
+  y: 199
+}
+vertices {
+  x: 465
+  y: 210
+}
+vertices {
+  x: 451
+  y: 210
+}
+
+Text: Consórcio
+Position : vertices {
+  x: 4
+  y: 218
+}
+vertices {
+  x: 64
+  y: 218
+}
+vertices {
+  x: 64
+  y: 231
+}
+vertices {
+  x: 4
+  y: 231
+}
+
+Text: HYDROS/ENGECOR.
+Position : vertices {
+  x: 70
+  y: 218
+}
+vertices {
+  x: 210
+  y: 218
+}
+vertices {
+  x: 210
+  y: 231
+}
+vertices {
+  x: 70
+  y: 231
+}
+
